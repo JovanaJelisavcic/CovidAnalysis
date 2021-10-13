@@ -2,9 +2,9 @@
 
 Data source: https://ourworldindata.org/coronavirus
 
-##Programs used
+## Programs used
 
-*Microsoft Excel
+*Microsoft Excel </br>
 *SQL Server Management Studio </br>
 
 
